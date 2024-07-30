@@ -10,6 +10,7 @@ PawsForHope is a website designed to connect people with animals in need.
 **Technologies Used:**
 
 Frontend: HTML, CSS, JavaScript
+
 Version Control: Git
 
 **Usage:**
