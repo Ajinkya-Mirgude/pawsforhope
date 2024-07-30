@@ -1,23 +1,18 @@
-PawsForHope
+**PawsForHope**
 
 Welcome to PawsForHope, an animal charity dedicated to rescuing, rehabilitating, and rehoming animals in need. Our website aims to provide information about our mission, showcase our adoptable pets, and offer ways for the community to get involved.
 
-Project Overview
+**Project Overview:**
 
-PawsForHope is a website designed to connect people with animals in need. The website features:
+PawsForHope is a website designed to connect people with animals in need.
 
-About Us: Information about our mission, values, and team.
-Adoptable Pets: A gallery of pets available for adoption with detailed profiles.
-Get Involved: Information on how to volunteer, donate, or foster.
-Events: Upcoming events and fundraisers.
-Resources: Educational materials on pet care and animal welfare.
 
-Technologies Used
+**Technologies Used:**
 
 Frontend: HTML, CSS, JavaScript
 Version Control: Git
 
-Usage
+**Usage:**
 
 
 ![46b9df27-0e3c-49f5-8c93-567f09100cfa](https://github.com/user-attachments/assets/8cbc3756-227b-4f85-8d0a-1837de7dafa1)
